@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<presentation guid="555C027F-5E81-4589-B845-D33CF8E81163" version="0" availableOffline="1">
+	<info>
+		<title>Tạo bài giảng điện tử e-learning</title>
+		<description/>
+	</info>
+	<files index="id31" thumbnail="id63" totalSize="8639916">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/slide1.js</file>
+		<file id="id2">data/slide1.css</file>
+		<file id="id3">data/thmb2.png</file>
+		<file id="id4">data/slide2.js</file>
+		<file id="id5">data/slide2.css</file>
+		<file id="id6">data/thmb3.png</file>
+		<file id="id7">data/intr1.js</file>
+		<file id="id8">data/intr1/fonts/fnt0.woff</file>
+		<file id="id9">data/intr1/fonts/fnt1.woff</file>
+		<file id="id10">data/intr1/fonts/fnt2.woff</file>
+		<file id="id11">data/intr1/images/interaction_bg_0.jpg</file>
+		<file id="id12">data/thmb4.png</file>
+		<file id="id13">data/slide4.js</file>
+		<file id="id14">data/slide4.css</file>
+		<file id="id15">data/thmb5.png</file>
+		<file id="id16">data/scenario1.js</file>
+		<file id="id17">data/scenario1/fnt1.woff</file>
+		<file id="id18">data/scenario1/fnt1b.woff</file>
+		<file id="id19">data/scenario1/fnt1bi.woff</file>
+		<file id="id20">data/scenario1/fnt1i.woff</file>
+		<file id="id21">data/scenario1/html5-unsupported.html</file>
+		<file id="id22">data/scenario1/html5.png</file>
+		<file id="id23">data/scenario1/img0.png</file>
+		<file id="id24">data/scenario1/img1.png</file>
+		<file id="id25">data/thmb6.png</file>
+		<file id="id26">data/slide6.js</file>
+		<file id="id27">data/slide6.css</file>
+		<file id="id28">data/video1.mp4</file>
+		<file id="id29">data/scenarioplayer.js</file>
+		<file id="id30">data/intplayer1.js</file>
+		<file id="id31">index.html</file>
+		<file id="id32">data/player.js</file>
+		<file id="id37">data/browsersupport.js</file>
+		<file id="id38">data/apple-touch-icon.png</file>
+		<file id="id39">data/favicon.ico</file>
+		<file id="id40">data/fnt0.woff</file>
+		<file id="id41">data/fnt1.woff</file>
+		<file id="id42">data/fnt2.woff</file>
+		<file id="id43">data/fnt3.woff</file>
+		<file id="id44">data/fnt4.woff</file>
+		<file id="id45">data/fnt5.woff</file>
+		<file id="id46">data/fnt6.woff</file>
+		<file id="id47">data/fnt7.woff</file>
+		<file id="id48">data/fnt8.woff</file>
+		<file id="id49">data/html5-unsupported.html</file>
+		<file id="id50">data/html5.png</file>
+		<file id="id51">data/img0.png</file>
+		<file id="id52">data/img1.png</file>
+		<file id="id53">data/img10.jpg</file>
+		<file id="id54">data/img2.png</file>
+		<file id="id55">data/img3.png</file>
+		<file id="id56">data/img4.png</file>
+		<file id="id57">data/img5.png</file>
+		<file id="id58">data/img6.png</file>
+		<file id="id59">data/img7.png</file>
+		<file id="id60">data/img8.png</file>
+		<file id="id61">data/img9.png</file>
+		<file id="id62">data/photo1.png</file>
+		<file id="id63">data/ismplayer/preview.png</file>
+	</files>
+</presentation>
